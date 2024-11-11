@@ -1,1 +1,2 @@
-.\tools\cfe2cf.exe f .\bin\QueryModel.cfe Œ®¤¥«ì‡ ¯à®á  .\bin\QueryModel.cf
+https://github.com/best-tech/cfe2cf
+.\tools\cfe2cf.exe f .\bin\?®¤?«i‡ ?a®a .cfe ?®¤?«i‡ ?a®a  .\bin\?®¤?«i‡ ?a®a .cf
